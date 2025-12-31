@@ -1,4 +1,5 @@
 **✅ CORE JAVA – TOPIC CHECKLIST (FOUNDATION)**
+
 **🟢 1. Java Fundamentals (start here)**
 
  What is Java?
