@@ -1,5 +1,5 @@
-✅ CORE JAVA – TOPIC CHECKLIST (FOUNDATION)
-🟢 1. Java Fundamentals (start here)
+**✅ CORE JAVA – TOPIC CHECKLIST (FOUNDATION)**
+**🟢 1. Java Fundamentals (start here)**
 
  What is Java?
 
@@ -9,7 +9,7 @@
 
  How Java code runs (high-level flow)
 
-🟢 2. JVM / JRE / JDK
+**🟢 2. JVM / JRE / JDK**
 
  JVM – role and responsibilities
 
@@ -21,7 +21,7 @@
 
  Stack vs Heap (basic difference + example)
 
-🟢 3. Variables & Data Types
+**🟢 3. Variables & Data Types**
 
  Variables (local, instance, static – just definition)
 
@@ -33,7 +33,7 @@
 
  Default values of data types
 
-🟢 4. Operators
+**🟢 4. Operators**
 
  Arithmetic operators
 
@@ -45,7 +45,7 @@
 
  Ternary operator (when and why it’s used)
 
-🟢 5. Control Flow Statements
+**🟢 5. Control Flow Statements**
 
  if / else
 
@@ -61,7 +61,7 @@
 
  break and continue
 
-🟢 6. Arrays
+**🟢 6. Arrays**
 
  What is an array?
 
@@ -75,7 +75,7 @@
 
  Common array operations (max, min, reverse – concept)
 
-🟢 7. Strings (VERY important)
+**🟢 7. Strings (VERY important)**
 
  What is String?
 
@@ -89,7 +89,7 @@
 
  Common string methods (length, charAt, substring)
 
-🟢 8. OOP Concepts (interview core)
+**🟢 8. OOP Concepts (interview core)**
 
  Class and Object
 
@@ -111,7 +111,7 @@
 
  Method overriding
 
-🟢 9. Important Keywords
+**🟢 9. Important Keywords**
 
  static
 
@@ -121,7 +121,7 @@
 
  super keyword
 
-🟢 10. Exception Handling (basic)
+**🟢 10. Exception Handling (basic)**
 
  What is an exception?
 
